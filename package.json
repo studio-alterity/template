@@ -1,7 +1,7 @@
 {
   "name": "studio-alterity-template",
   "type": "module",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Create a new project with Alterity default configuration",
   "bin": {
     "studio-alterity-template": "bin/create.mjs"
